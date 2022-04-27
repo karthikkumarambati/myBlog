@@ -1,0 +1,204 @@
+
+
+   body{
+       background-image: url(https://i.pinimg.com/originals/cf/2a/f7/cf2af7d910deadc8095576f7d2cf156d.jpg);
+       background-position: center;
+       background-size: cover;
+       background-repeat: no-repeat;
+       
+        }
+    .home{
+        width: 70px;
+        height: 40px;
+        float: left;
+    }
+    .home h5{
+        font-size: 80px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-weight: bolder;
+        color: cornsilk;
+        padding-top: 0%;
+        margin-top: 0%;
+        text-shadow: 1px 1px 8px blue,0 0 20px lightskyblue,0 0 10px darkblue;
+    }
+    .menu{
+        width: 100px;
+        height: 500px;
+        float: left;
+    
+    }
+    ul{
+        float: left;
+        margin-bottom: 0px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin-left: 300px;
+    }
+    ul li{
+        list-style: none;
+        align-items: center;
+    }
+    ul li a{
+        padding-left: 50px;
+        margin-top: 10px;
+        font-size: 25px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-style: italic;
+        color: lightblue;
+    }
+    li a:hover{
+        color: cornsilk;
+         background-origin: content-box;
+    }
+    li a:active{
+        color: orangered;
+    }
+    form{
+        width: 300px;
+        height: 10px;
+        float: right;
+        padding-top: 20px;
+
+    }
+    input{
+        
+        color: blanchedalmond;
+        border-radius: 2px orange;
+        height: 25px;
+    }
+    button{
+        background-color: rgb(11, 145, 145);
+        color: black;
+        height: 35px;
+        width: fit-content;
+    }
+    .sra1ni{
+        height: 50px;
+        width: 300px;
+        float: left;
+      margin-top: 160px;
+      margin-right: 400px;
+     }
+     h2{
+        color: skyblue;
+        font-size: 60px;
+        font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+        font-style: inherit;
+        
+     }
+     span{
+         color: deeppink;
+     }
+     h4{
+         color: lavenderblush;
+         font-size: 10px;
+         font-family: sans-serif;
+         font-family: cursive;
+         margin-top: 5px;
+     }
+     button.mean {
+         height: 40px;
+         width: 120px;
+         float: left;
+         margin-top: 380px;
+         margin-left: 400px;
+         border-radius: 5px;
+         
+     }
+     .mean a{
+         text-decoration: none;
+         color: linen;
+         border-bottom: none;
+         font-size: 20px;
+     }
+     .mean a:hover{
+         color: mediumblue;
+     }
+    .anu{
+        height: 380px;
+        width: 250px;
+        background: linear-gradient(to top, rgba(0,0,0,0.8)50%,rgba(0,0,0,0.8)50%);
+        position: absolute;
+        top: -20px;
+        left: 870px;
+        border-radius: 25px;
+        padding: 25px;
+        margin-top: 200px;
+    }
+    .anu h2{
+        width: 220px;
+        font-family: sans-serif;
+        text-align: center;
+        color: deepskyblue;
+        font-size: 22px;
+        background-color: floralwhite;
+        border-radius: 10px;
+        margin: 2px;
+        padding: 8px;
+    }
+    .anu input{
+       color: skyblue;
+       font-size: 20px;
+       text-align: center;
+       margin-top: 20px;
+       padding: 8px;
+       background: transparent;
+       border-bottom: rgb(3, 40, 161);
+       border-top: none;
+       border-left: none;
+       border-right: none;
+       
+    }
+    .btnn{
+        width: 250px;
+        height: 40px;
+        margin-top: 8px;
+        border-radius: 10px;
+        
+    }
+    .btnn a{
+        font-size: 22px;
+        font-weight: bold;
+        font-style: initial;
+        border-style: hidden;
+        transition: 0.5s;
+        text-decoration: none;
+        border-bottom: none;
+    }
+    .btnn a:hover{
+        color: greenyellow;
+        
+    }
+    .btnn a:active{
+        color:rgb(11, 145, 145);
+    }
+    .link{
+        color: seashell;
+        text-align: center;
+        font-size: 20px;
+    }
+    .bro{
+        padding-left: 68px;
+        color: skyblue;
+        font-size: 20px;
+        text-decoration: skyblue;
+    }
+    .liw{
+        color: linen;
+        font-size: 20px;
+        text-align: center;
+    }
+    .pintu a{
+        color: mintcream;
+        height: 40px;
+        width: 60px;
+    }
+    .fab{
+        font-size: 30px;
+        padding-left: 25px;
+    }
+    .fab:hover{
+        color: deeppink;
+    }
+    
